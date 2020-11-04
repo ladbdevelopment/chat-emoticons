@@ -1,0 +1,23 @@
+{
+  "name": "chat-emoticons",
+  "version": "1.0.0",
+  "description": "Project Chat with emoticons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ladbdevelopment/chat-emoticons.git"
+  },
+  "keywords": [
+    "Chat",
+    "emoticons"
+  ],
+  "author": "ladb.development@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladbdevelopment/chat-emoticons/issues"
+  },
+  "homepage": "https://github.com/ladbdevelopment/chat-emoticons#readme"
+}
