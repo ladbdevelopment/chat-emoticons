@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ladbdevelopment/chat-emoticons/issues"
   },
-  "homepage": "https://github.com/ladbdevelopment/chat-emoticons#readme"
+  "homepage": "https://github.com/ladbdevelopment/chat-emoticons#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
